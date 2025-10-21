@@ -117,7 +117,7 @@
             this.Controls.Add(this.lblTittle);
             this.Controls.Add(this.btnCalcular);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Rectángulo";
             this.ResumeLayout(false);
             this.PerformLayout();
 
